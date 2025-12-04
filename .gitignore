@@ -132,3 +132,12 @@ venv.bak/
 # Data and output directories
 data/
 out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# uv
+.venv/
+uv.lock

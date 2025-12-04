@@ -1,0 +1,8 @@
+# TikTok API用の依存関係
+# 注: TikTok公式SDKの有無を確認してから更新が必要
+requests>=2.31.0
+httpx>=0.25.0
+
+# 環境変数管理
+python-dotenv>=1.0.0
+
